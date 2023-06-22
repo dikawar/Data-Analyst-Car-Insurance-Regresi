@@ -1,6 +1,7 @@
 # Data-Analyst-Car-Insurance-Regresi
 
 Link Persentasi Video https://drive.google.com/file/d/19IO4K4OQI-pC6NBSs-pQy0j0Wq8h1Suc/view?usp=sharing
+Link Persentasi PPT/Canva https://www.canva.com/design/DAFmFWYqVng/2H0MYuaHphH0t9S5uPYqsA/edit?utm_content=DAFmFWYqVng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## **1. Business Problem Understanding**
 ---
